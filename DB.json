@@ -15,10 +15,17 @@
 	},
 	{
 		"id": 3,
-		"name": "Mark",
-		"surname": "Kostuchenko",
-		"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwsjr26uehca6db4JGBdzKlfryolH2DD6bAg&s",
-		"balance": 3455
+		"name": "Atem",
+		"surname": "Moskalenko",
+		"photo_url": "https://sites.bu.edu/dme/files/2019/11/photographer-698908_1280.jpg",
+		"balance": 2500
+	},
+	{
+		"id": 4,
+		"name": "Anna",
+		"surname": "Moskalenko",
+		"photo_url": "https://sites.bu.edu/dme/files/2019/11/photographer-698908_1280.jpg",
+		"balance": 3500
 	}
 
 ],
