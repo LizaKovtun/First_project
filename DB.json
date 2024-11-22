@@ -1,5 +1,10 @@
 {
-	"users": [
-		
+	"users": [ {
+		"id": 1,
+		"name": "Andriy",
+		"surname": "Moskalenko",
+		"photo_url": "https://banner2.cleanpng.com/20180224/giq/kisspng-funny-cat-kitten-dog-big-cat-stay-meng-big-cat-face-5a916b9fa8b0e8.026056381519479711691.jpg",
+		"balance": 1500
+	}
 	]
 }
