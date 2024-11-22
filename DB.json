@@ -12,6 +12,20 @@
 		"surname": "Moskalenko",
 		"photo_url": "https://sites.bu.edu/dme/files/2019/11/photographer-698908_1280.jpg",
 		"balance": 1500
+	},
+	{
+		"id": 3,
+		"name": "Atem",
+		"surname": "Moskalenko",
+		"photo_url": "https://sites.bu.edu/dme/files/2019/11/photographer-698908_1280.jpg",
+		"balance": 2500
+	},
+	{
+		"id": 4,
+		"name": "Anna",
+		"surname": "Moskalenko",
+		"photo_url": "https://sites.bu.edu/dme/files/2019/11/photographer-698908_1280.jpg",
+		"balance": 3500
 	}
 
 ],
@@ -21,5 +35,17 @@
 		"photo_url": "https://banner2.cleanpng.com/20180224/giq/kisspng-funny-cat-kitten-dog-big-cat-stay-meng-big-cat-face-5a916b9fa8b0e8.026056381519479711691.jpg",
 		"price": 258
 	},
+	{
+	 "id": 2,
+	 "name": "Напиток газированный Fanta 1,75 л x 6 шт.",
+	 "photo_url": "https://banner2.cleanpng.com/20180224/giq/kisspng-funny-cat-kitten-dog-big-cat-stay-meng-big-cat-face-5a916b9fa8b0e8.026056381519479711691.jpg",
+	 "price": 258
+ },
+ {
+	"id": 3,
+	"name": "Напиток газированный Pepsi 1,75 л x 6 шт.",
+	"photo_url": "https://banner2.cleanpng.com/20180224/giq/kisspng-funny-cat-kitten-dog-big-cat-stay-meng-big-cat-face-5a916b9fa8b0e8.026056381519479711691.jpg",
+	"price": 258
+}
 	]
 }
