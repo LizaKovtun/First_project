@@ -12,6 +12,13 @@
 		"surname": "Moskalenko",
 		"photo_url": "https://sites.bu.edu/dme/files/2019/11/photographer-698908_1280.jpg",
 		"balance": 1500
+	},
+	{
+		"id": 3,
+		"name": "Mark",
+		"surname": "Kostuchenko",
+		"photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwsjr26uehca6db4JGBdzKlfryolH2DD6bAg&s",
+		"balance": 3455
 	}
 
 ],
@@ -26,6 +33,12 @@
 		"name": "Напиток газированный Kofola 1,75 л x 6 шт.",
 		"photo_url": "https://aktiva.ua/189-large_default/napij-bezalkogolnij-silnogazovanij-kofola-2-l.jpg",
 		"price": 358
+	},
+	{
+		"id": 3,
+		"name": "цукерки JOJO",
+		"photo_url": "https://knedliky.co.uk/wp-content/uploads/2022/04/JOJO-Fizzy-Strawberry-candies.jpg",
+		"price": 124
 	}
 	]
 }
