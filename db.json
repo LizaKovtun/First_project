@@ -33,19 +33,44 @@
 		"id": 1,
 		"name": "Напиток газированный Coca-Сola 1,75 л x 6 шт.",
 		"photo_url": "https://src.zakaz.atbmarket.com/cache/photos/80019/catalog_product_gal_mob_80019.jpg",
-		"price": 258
+		"price": 258,
+		"author_id": 1
 	},
 	{
 		"id": 2,
 		"name": "Напиток газированный Kofola 1,75 л x 6 шт.",
 		"photo_url": "https://aktiva.ua/189-large_default/napij-bezalkogolnij-silnogazovanij-kofola-2-l.jpg",
-		"price": 358
+		"price": 358,
+		"author_id": 3
 	},
 	{
 		"id": 3,
 		"name": "цукерки JOJO",
 		"photo_url": "https://knedliky.co.uk/wp-content/uploads/2022/04/JOJO-Fizzy-Strawberry-candies.jpg",
-		"price": 124
+		"price": 124,
+		"author_id": 2
+	},
+		{
+		"id": 4,
+		"name": "Напиток газированный Coca-Сola 1,75 л x 6 шт.",
+		"photo_url": "https://src.zakaz.atbmarket.com/cache/photos/80019/catalog_product_gal_mob_80019.jpg",
+		"price": 258,
+		"author_id": 1
+	},
+		{
+		"id": 5,
+		"name": "Напиток газированный Kofola 1,75 л x 6 шт.",
+		"photo_url": "https://aktiva.ua/189-large_default/napij-bezalkogolnij-silnogazovanij-kofola-2-l.jpg",
+		"price": 358,
+		"author_id": 2
+	},
+		{
+		"id": 6,
+		"name": "цукерки JOJO",
+		"photo_url": "https://knedliky.co.uk/wp-content/uploads/2022/04/JOJO-Fizzy-Strawberry-candies.jpg",
+		"price": 124,
+		"author_id": 3
 	}
+		
 	]
 }
