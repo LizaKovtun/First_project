@@ -31,14 +31,14 @@
 ],
 	"product": [ {
 		"id": 1,
-		"name": "Напиток газированный Coca-Сola 1,75 л x 6 шт.",
+		"name": "Напиток Coca-Сola",
 		"photo_url": "https://src.zakaz.atbmarket.com/cache/photos/80019/catalog_product_gal_mob_80019.jpg",
 		"price": 258,
 		"author_id": 1
 	},
 	{
 		"id": 2,
-		"name": "Напиток газированный Kofola 1,75 л x 6 шт.",
+		"name": "Напиток Kofola",
 		"photo_url": "https://aktiva.ua/189-large_default/napij-bezalkogolnij-silnogazovanij-kofola-2-l.jpg",
 		"price": 358,
 		"author_id": 3
@@ -52,14 +52,14 @@
 	},
 		{
 		"id": 4,
-		"name": "Напиток газированный Coca-Сola 1,75 л x 6 шт.",
+		"name": "Напиток Coca-Сola",
 		"photo_url": "https://src.zakaz.atbmarket.com/cache/photos/80019/catalog_product_gal_mob_80019.jpg",
 		"price": 258,
 		"author_id": 1
 	},
 		{
 		"id": 5,
-		"name": "Напиток газированный Kofola 1,75 л x 6 шт.",
+		"name": "Напиток Kofola",
 		"photo_url": "https://aktiva.ua/189-large_default/napij-bezalkogolnij-silnogazovanij-kofola-2-l.jpg",
 		"price": 358,
 		"author_id": 2
